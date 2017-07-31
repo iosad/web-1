@@ -1,0 +1,90 @@
+/*
+* @Author: Marte
+* @Date:   2017-07-29 20:28:39
+* @Last Modified by:   Marte
+* @Last Modified time: 2016-08-17 09:15:34
+*/
+/*开始部分*/
+
+.show{
+    width: 1000px;
+    height: 890px;
+    margin: 3px  auto;
+}
+
+.show>p{
+    padding-top: 10px;
+    font-size: 22px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.show>div>p{
+    padding-left:15px;
+    font-weight:bold;
+}
+.show>div>p>a{
+    font-size: 12px;
+    font-weight:normal;
+}
+.show>div>p>a:hover{
+    color:red;
+}
+
+.show-1{
+    margin-left: 255px;
+    width: 600px;
+    height: 105px;
+}
+.show-1 ul{
+    margin-left:25px;
+    margin-top:-25px;
+}
+.show-1 ul li{
+    width: 84px;
+    height: 84px;
+    float: left;
+    margin-right:5px;
+
+
+}
+.show-1 ul li:hover {
+    background:url(../images/ico_bg.gif) no-repeat;
+}
+,.show-1 ul{
+    overflow:hidden;
+    padding-top:24px;
+    margin-left:45px;
+}
+.sho-1{
+    width: 12px;
+    height: 43px;
+}
+.sho-1{
+    width: 12px;
+    height: 43px;
+    margin-left: 7px;
+    padding-top:10px;
+}
+.sho-1>a>img{
+    padding-top:25px;
+}
+
+.sho-2>a>img{
+    padding-top:5px;
+}
+
+
+
+.show-2{
+    width: 600px;
+    height: 605px;
+    margin:auto;
+    margin-top: 10px;
+    background: url(../images/ai2.png) no-repeat;
+}
+
+.sho-3 li>img{
+    padding-left:5px;
+    padding-top:2px;
+}

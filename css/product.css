@@ -1,0 +1,237 @@
+/*中间部分*/
+.procute-center{
+    width:1000px;
+    height:1150px;
+    overflow: hidden;
+    margin:15px auto 15px;
+}
+
+.pro-left{
+    width: 320px;
+    height: 1150px;
+    float: left;
+}
+
+/*中间左边第一部分*/
+.pro-left>p{
+    padding-left:15px;
+    font-weight:bold;
+}
+.pro-left>p>a{
+    font-size: 12px;
+    font-weight:normal;
+}
+.pro-left>p>a:hover{
+    color:red;
+}
+.left-1{
+    margin-top:8px;
+    margin-left:5px;
+    width: 303px;
+    height:64px ;
+    background: url(../images/product_01.gif) no-repeat;
+}
+/*中间左边第二部分*/
+.left-2{
+    width: 291px;
+    height: 33px;
+    margin-top: 10px;
+    margin-left:15px;
+    position:relative;
+    background: url(../images/red.png) no-repeat;
+}
+.left-2>p{
+    font-weight: bold;
+    color: #fff;
+    font-size: 15px;
+    position: absolute;
+    left: 75px;
+    top: 8px;
+}
+/*中间左边第三部分*/
+.left-3{
+    width:260px;
+    height:140px;
+    margin-top: 10px;
+    margin-left:15px;
+}
+.left-3 ul li{
+    padding-left:75px;
+    font-size:12px;
+    line-height:20px;
+}
+.left-3 ul li:hover a{
+    color:red;
+}
+/*中间左边第四部分*/
+.left-4-1{
+    width:290px;
+    height:22px;
+    margin-top:10px;
+    margin-left:12px;
+}
+.left-4-1 li{
+    width:290px;
+    height:50px;
+    position:relative;
+    background:url(../images/pro-1.png) no-repeat;
+}
+.left-4-1 li a{
+    display: block;
+    font-size: 12px;
+    line-height: 35px;
+    position: absolute;
+    left: 33px;
+}
+.left-4-1 li:hover a{color:red;}
+/*中间左边第五部分*/
+.left-5{
+    width:303px;
+    height:40px;
+    margin-top: 200px;
+    background:url(../images/product_3.png)
+}
+/*中间左边第六部分*/
+.left-6{
+    width: 290px;
+    height: 280px;
+    margin-left: 13px;
+    margin-top: 5px;
+    position: relative;
+}
+
+.left-6 ul li{
+    width: 275px;
+    height: 65px;
+    line-height: 20px;
+    font-size:12px;
+    padding-left:10px;
+    border-bottom: 1px dashed #A4A4A4;
+}
+.left-6 ul li>a>p{
+    padding-top: 10px;
+}
+.left-6 ul li:hover a{
+    color: red;
+}
+/*中间左边第七部分*/
+.left-7{
+    width: 303px;
+    height: 40px;
+    margin-top:5px;
+    background:url(../images/product_4.png) no-repeat;
+}
+
+/*中间左边第八部分*/
+.left-8{
+    width: 300px;
+    height: 75px;
+    margin-top:5px;
+    margin-left:13px;
+    overflow: hidden;
+
+}
+.left-8-1{
+    width: 141px;
+    height: 71px;
+    float: right;
+    margin-top:3px;
+    position: relative;
+    background: url(../images/libg14.gif) no-repeat;
+    background-position: 0 -71px;
+}
+.left-8>div>p{
+    width: 141px;
+    line-height:30px;
+    font-size:12px;
+}
+
+.left-8>p{
+    width: 151px;
+    line-height: 30px;
+    font-size: 12px;
+}
+#left-8-1-a{
+    width: 150px;
+    font-size: 20px;
+    color: #7B7B7B;
+    position: absolute;
+    top: 30px;
+    left: 20px;
+}
+
+.left-8:hover .left-8-b{
+    color: #7B7B7B;
+}
+
+.left-8:hover p{
+    color: red;
+}
+
+
+/*中间右边*/
+.pro-right{
+    width: 665px;
+    height:1150px;
+    float: right;
+}
+.right-1{
+    width: 622px;
+    height:63px;
+    margin-top:15px;
+    background: url(../images/product_5.png) no-repeat;
+}
+
+
+
+.rig-1{
+    width: 319px;
+}
+.right-2{
+    width: 319px;
+    height:240px;
+    margin-top:49px;
+    background: url(../images/la.png) no-repeat;
+}
+.right-3{
+    width: 319px;
+    height:33px;
+    margin-top:15px;
+    background:#C8C8C8;
+}
+.right-0>div>p{
+    padding-left:20px;
+    padding-top:8px;
+    font-size:14px;
+}
+.right-0>p{
+    font-size:10px;
+}
+
+.right-0:hover .right-3{
+    background:#FFD200;
+}
+.right-0:hover .right-3 >p{
+    color: red;
+}
+.right-0:hover p{
+    color: red;
+}
+
+.rig-2{
+    margin-top:-352px;
+    float: right;
+}
+
+.rig-3{
+    float: left;
+}
+.rig-4{
+    float: right;
+}
+.rig-5{
+    float: left;
+}
+.rig-6{
+    float: right;
+}

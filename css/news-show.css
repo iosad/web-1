@@ -1,0 +1,205 @@
+.shows {
+ width: 1000px;
+  height: 990px;
+   margin: 15px auto 15px;
+}
+.shows-1 {
+ width: 660px;
+ height: 990px;
+ float: left;
+  }
+.shows-1>p {
+    padding-top: 15px;
+    padding-left: 15px;
+     font-weight: bold;
+      }
+.shows-1>p>a {
+    font-weight: normal;
+}
+.shows-1>p>a:hover {
+    color: red;
+}
+.shows-event {
+    width: 579px;
+    height: 80px;
+    margin-top: 5px;
+    margin-left: 10px;
+    background: url(../images/top-01.png) no-repeat;
+}
+.shows-p {
+    width: 650px;
+    height: 35px; background: red;
+    margin-left: 10px;
+}
+.shows-p p {
+ font-size: 14px;
+ padding-top: 10px;
+ padding-left: 235px;
+ width: 209px;
+ color: #fff;
+}
+.shows-1-p {
+    font-size: 12px;
+    line-height: 20px;
+    color: #616161;
+}
+.shows-marry {
+    width: 660px;
+    height: 412px;
+    background: url(../images/news_show_01.png) no-repeat;
+}
+.shows-font {
+    width: 655px;
+    height: 200px;
+    margin-top: 3px;
+}
+.shows-font>p {
+    font-size: 12px;
+    line-height: 25px;
+    color: #424242; }
+
+.news-bottom>p {
+ word-spacing:normal;
+ font-size: 12px;
+ line-height: 25px;
+ color: #424242;
+}
+.news-bottom>p:hover a{
+    color: red;
+}
+.news-bottom{
+  width: 660px;
+  font-size:12px;
+}
+
+
+
+
+.news-bottom>div{
+  float: right;
+  position:relative;
+  left: -69px;
+  top: -22px;
+}
+.news-bottom>div>a{
+  float: left;
+  margin-left:18px;
+}
+.news-bottom>div>a>p{
+  position: relative;
+  left: 6px;
+  top: 3px;
+  word-spacing:normal;
+  float: right;
+}
+.news-bottom>div>a:hover{
+  color: red;
+  transform: scale(1.1,1.1);
+}
+/*中间右边部分*/
+.shows-2 {
+ width: 315px;
+ height: 950px;
+ float: right;
+  }
+.sho-2-1 {
+ width: 290px;
+  height: 33px;
+  margin-top: 45px;
+  margin-left: 10px;
+  position: relative; background: url(../images/red.png) no-repeat;
+}
+.sho-2-1 p {
+    font-size: 16px;
+    ont-weight: bold;
+    font-family: 微软雅黑;
+    color: #fff; margin-left: 12px;
+    position: absolute;
+    top: 5px; left: 43px;
+}
+.sho-2-1 {
+    width: 290px;
+    height: 33px;
+    margin-top: 35px;
+    margin-left: 10px;
+    margin-bottom: 15px;
+    position: relative; background: url(../images/red.png) no-repeat;
+}
+.sho-2-1 p {
+    font-size: 16px;
+    font-weight: bold;
+    font-family: 微软雅黑;
+    color: #fff;
+    margin-left: 12px;
+    position: absolute;
+    top: 5px;
+    left: 43px;
+}
+.shows-2-1 {
+    width: 290px;
+    height: 200px;
+    margin-top: 10px;
+    margin-left: 12px;
+}
+.shows-2-1 li {
+    width: 290px;
+    height: 25px;
+    position: relative;
+    background: url(../images/dian.png) no-repeat;
+}
+.shows-2-1 li a {
+  display: block;
+  font-size: 12px;
+  line-height: 27px;
+  position: absolute;
+  left: 25px;
+  display: -webkit-box;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  -webkit-box-orient: vertical;
+   -webkit-line-clamp: 1;
+}
+.shows-2-1 li:hover a {
+ color: #fff;
+  }
+.shows-2-1 li:hover {
+    background-position: 0 -27px;
+     }
+
+/*中间右边下面部分*/
+.sho-2-2 {
+ width: 290px;
+ height: 33px;
+ margin-top: 5px;
+ margin-left: 10px;
+ margin-bottom: 15px;
+ position: relative; background: url(../images/red.png) no-repeat;
+}
+.sho-2-2 p {
+    font-size: 16px;
+    font-weight: bold;
+    font-family: 微软雅黑;
+    color: #fff;
+    margin-left: 12px;
+    position: absolute;
+    top: 5px; left: 43px;
+}
+.sho-2-3 {
+ width: 290px;
+ height: 405px;
+ margin: auto;
+}
+.sho-2-3 ul { overflow: hidden; }
+.sho-2-3 ul li { float: left; margin-left: 10px; }
+.sho-2-3 ul li:hover { color: red; }
+.sho-2-3 ul li>div { width: 130px; height: 100px; margin: 5px 0px 0px 0px; border: 1px solid #C9C9C9; }
+.sho-2-3 li>div>img { padding-left: 3px; padding-top: 3px; }
+.sho-2-3 ul li>p { font-size: 14px; line-height: 25px; padding-left: 10px; }
+.sho-2-3-1 { width: 290px; height: 33px;margin-bottom: 15px; margin-top: 10px; margin-left: 10px; position: relative; background: url(../images/red.png) no-repeat; }
+.sho-2-3-1 p { font-size: 16px; font-weight: bold; font-family: 微软雅黑; color: #fff; margin-left: 12px; position: absolute; top: 5px; left: 43px; }
+.shows-2-4 { width: 290px; height: 200px; margin-top: 10px; margin-left: 12px; }
+.shows-2-4 li { width: 290px; height: 25px; position: relative; background: url(../images/dian.png) no-repeat; }
+.shows-2-4 li a { display: block; font-size: 12px; line-height: 27px; position: absolute; left: 25px; display: -webkit-box; overflow: hidden; text-overflow: ellipsis; -webkit-box-orient: vertical; -webkit-line-clamp: 1; }
+.shows-2-4 li:hover a { color: #fff; }
+.shows-2-4 li:hover { background-position: 0 -27px; }
+
